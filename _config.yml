@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Marissa's Blog
 header-img: img/home-bg.png
 email: mwz2101@columbia.edu
 copyright_name: marissazhong
 description: > # this means to ignore newlines until "baseurl:"
-  
+  my journey through Flatiron School
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  marissazhong
